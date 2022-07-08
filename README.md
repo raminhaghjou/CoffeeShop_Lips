@@ -1,9 +1,9 @@
-# Bibir Coffee App
+# Coffee Lips App
 
-> FLUTTER - Bibir Coffee App
+> FLUTTER - Coffee Lips App
 
 
-<img src="https://i.ibb.co/SrpcDtp/Cover.png" alt="Cover" border="0"></a>
+<!-- <img src="https://i.ibb.co/SrpcDtp/Cover.png" alt="Cover" border="0"></a> -->
 
 ## Features
 
@@ -22,6 +22,6 @@
 
 ## Credit
 
-monfauzi – [@monfadev](https://instagram.com/monfadev) – mfaauzii@gmail.com
+rashim_expert – [@rashim_expert](https://instagram.com/rashim_expert) – haghjouramin@gmail.com
 
-[https://github.com/monfadev](https://github.com/monfadev/)
+[https://github.com/raminhaghjou](https://github.com/raminhaghjou/)
