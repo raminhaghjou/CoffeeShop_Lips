@@ -1,8 +1,8 @@
-import 'package:bcoffee/constants/constants.dart';
-import 'package:bcoffee/models/slider.dart';
-import 'package:bcoffee/ui/widgets/get_started_button.dart';
-import 'package:bcoffee/ui/widgets/slide_dots.dart';
-import 'package:bcoffee/ui/widgets/slider_item.dart';
+import 'package:coffeelips/constants/constants.dart';
+import 'package:coffeelips/models/slider.dart';
+import 'package:coffeelips/ui/widgets/get_started_button.dart';
+import 'package:coffeelips/ui/widgets/slide_dots.dart';
+import 'package:coffeelips/ui/widgets/slider_item.dart';
 import 'package:flutter/cupertino.dart';
 
 class OnBoardingLayoutView extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:bcoffee/constants/constants.dart';
-import 'package:bcoffee/models/slider.dart';
+import 'package:coffeelips/constants/constants.dart';
+import 'package:coffeelips/models/slider.dart';
 import 'package:flutter/cupertino.dart';
 
 class SlideItem extends StatelessWidget {

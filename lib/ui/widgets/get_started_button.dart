@@ -1,5 +1,5 @@
-import 'package:bcoffee/constants/constants.dart';
-import 'package:bcoffee/ui/pages/pages.dart';
+import 'package:coffeelips/constants/constants.dart';
+import 'package:coffeelips/ui/pages/pages.dart';
 import 'package:flutter/material.dart';
 
 class GetStartedButton extends StatelessWidget {

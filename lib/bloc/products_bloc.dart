@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:bcoffee/models/models.dart';
-import 'package:bcoffee/services/services.dart';
+import 'package:coffeelips/models/models.dart';
+import 'package:coffeelips/services/services.dart';
 
 part 'products_event.dart';
 part 'products_state.dart';

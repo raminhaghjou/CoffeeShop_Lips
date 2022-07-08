@@ -3,12 +3,12 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
 
-import 'package:bcoffee/bloc/blocs.dart';
-import 'package:bcoffee/models/models.dart';
-import 'package:bcoffee/services/services.dart';
-import 'package:bcoffee/shared/shared.dart';
-import 'package:bcoffee/ui/widgets/widgets.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:coffeelips/bloc/blocs.dart';
+import 'package:coffeelips/models/models.dart';
+import 'package:coffeelips/services/services.dart';
+import 'package:coffeelips/shared/shared.dart';
+import 'package:coffeelips/ui/widgets/widgets.dart';
 import 'package:email_validator/email_validator.dart';
 // List of packages that used by this application pages
 import 'package:firebase_auth/firebase_auth.dart';
@@ -17,7 +17,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
-import 'package:flutter_twitter_login/flutter_twitter_login.dart';
 import 'package:path/path.dart';
 import 'package:provider/provider.dart';
 import 'package:supercharged/supercharged.dart';

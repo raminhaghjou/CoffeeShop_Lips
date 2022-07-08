@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:bcoffee/bloc/products_bloc.dart';
-import 'package:bcoffee/ui/pages/OnBoardingScreen.dart';
+import 'package:coffeelips/bloc/products_bloc.dart';
+import 'package:coffeelips/ui/pages/OnBoardingScreen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
