@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:bcoffee/models/models.dart';
-import 'package:bcoffee/services/services.dart';
 import 'package:bloc/bloc.dart';
+import 'package:coffeelips/models/models.dart';
+import 'package:coffeelips/services/services.dart';
 import 'package:equatable/equatable.dart';
 
 part 'user_event.dart';

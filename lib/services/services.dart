@@ -1,10 +1,10 @@
 import 'dart:io';
 
-import 'package:bcoffee/constants/constants.dart';
-import 'package:bcoffee/extensions/extensions.dart';
-import 'package:bcoffee/models/models.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:coffeelips/constants/constants.dart';
+import 'package:coffeelips/extensions/extensions.dart';
+import 'package:coffeelips/models/models.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_auth/firebase_auth.dart' as auth;
 import 'package:firebase_database/firebase_database.dart';

@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
+import 'package:coffeelips/models/models.dart';
 import 'package:equatable/equatable.dart';
-import 'package:bcoffee/models/models.dart';
 
 part 'page_event.dart';
 part 'page_state.dart';
@@ -29,7 +29,7 @@ class PageBloc extends Bloc<PageEvent, PageState> {
       yield OnProfilePage();
     } else if (event is GoToEditProfilePage) {
       yield OnEditProfilePage(event.user);
-    } else if (event is GoToOrderHistoryPage){
+    } else if (event is GoToOrderHistoryPage) {
       yield OnOrderHistoryPage();
     }
   }

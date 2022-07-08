@@ -1,4 +1,4 @@
-import 'package:bcoffee/constants/constants.dart';
+import 'package:coffeelips/constants/constants.dart';
 import 'package:flutter/cupertino.dart';
 
 class Slider {
