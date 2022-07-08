@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="facebook_app_id" translatable="false">3100777146855071</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb3100777146855071</string>
+    <string name="facebook_client_token" translatable="false">8598d5ad05b3c62f323aa7dbc933e2bf</string>
+</resources>
